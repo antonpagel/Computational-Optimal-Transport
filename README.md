@@ -1,1 +1,1 @@
-# Computational-Optimal-Transport
+# Computational Optimal Transport
