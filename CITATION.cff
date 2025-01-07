@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Pagel
+    given-names: Anton
+title: "Computational Optimal Transport"
+version: 1.0
+date-released: 2025-01-07
